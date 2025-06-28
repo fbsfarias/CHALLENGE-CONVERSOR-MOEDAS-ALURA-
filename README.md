@@ -58,16 +58,15 @@ Durante o desenvolvimento, foram adicionadas algumas melhorias que **não estava
 ## 📂 Estrutura do projeto
 
 src/
-├── br/
-│ └── com/
-│ └── alura/
-│ └── modules/
-│ ├── Moeda.java
-│ ├── ConsultaConvercao.java
-│ ├── ConversorMoeda.java
-│ └── Menu.java
-└── Main.java
-
+└── br/
+    └── com/
+        └── alura/
+            └── modules/
+                ├── Moeda.java
+                ├── ConsultaConvercao.java
+                ├── ConversorMoeda.java
+                └── Menu.java
+Main.java
 
 
 ---
