@@ -25,7 +25,7 @@ public class ConsultaConvercao {
                 return new Gson().fromJson(response.body(), Moeda.class);
 
             } catch (IOException | InterruptedException e) {
-                throw new RuntimeException("Não consegui realizar a conversão.");
+                throw new RuntimeException("Não consegui realizar a conversão. Tente novamente.");
             }
         }
     }

@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a13b41cc-819b-46c0-af98-3773eb8e06be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHALLENGE-ALURA-EXCHANGERATE/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHALLENGE-ALURA-EXCHANGERATE/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHALLENGE-CONVERSOR-MOEDAS-ALURA-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CHALLENGE-CONVERSOR-MOEDAS-ALURA-.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHALLENGE-ALURA-EXCHANGERATE/src/br/com/alura/modules/ConsultaConvercao.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHALLENGE-ALURA-EXCHANGERATE/src/br/com/alura/modules/ConsultaConvercao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHALLENGE-ALURA-EXCHANGERATE/src/br/com/alura/modules/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/CHALLENGE-ALURA-EXCHANGERATE/src/br/com/alura/modules/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CHALLENGE-CONVERSOR-MOEDAS-ALURA-/br/com/alura/modules/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CHALLENGE-CONVERSOR-MOEDAS-ALURA-/br/com/alura/modules/Menu.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
