@@ -84,7 +84,7 @@ Main.java
 
 1. **Clone o repositório**:
 
-git clone <https://github.com/fbsfarias/CHALLENGE-CONVERSOR-MOEDAS-ALURA->
+    git clone <https://github.com/fbsfarias/CHALLENGE-CONVERSOR-MOEDAS-ALURA->
 
 
 2. **Abra no seu IDE** (IntelliJ, Eclipse, VS Code...)
